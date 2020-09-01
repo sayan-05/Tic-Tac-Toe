@@ -1,0 +1,30 @@
+ tr{
+    
+    height: 140px;
+    width: 280px;
+}
+table{
+    border: 6px solid black;
+    position: relative;
+    margin-top:100px;
+    margin-left: 500px;
+    height: 100px;
+    width: 400px; 
+    table-layout:fixed;
+}
+td{
+    border : 6px solid black;
+    text-align: center;
+    font-size: 100px;
+    font-family: Calibri
+}
+h1{
+    margin-left: 620px;
+    margin-top: 50px;
+    color: royalblue;
+}    
+#replay{
+    margin-left: 670px;
+    margin-top: -500px;
+    background-color: greenyellow;
+}
